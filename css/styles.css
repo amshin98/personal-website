@@ -1,0 +1,9 @@
+/* https://visme.co/blog/website-color-schemes/ No. 24 */
+.dark{color:#feffff!important;background-color:#17252a!important}
+.dark-accent{background-color:#2b7a78!important}
+.main-bg{background-color:#3aafa9!important}
+.light-accent{background-color:#def2f1!important}
+.light{background-color:#feffff!important}
+
+.hover-dark-accent:hover{color:#000!important;background-color:#2b7a78!important}
+.hover-light-accent:hover{color:#000!important;background-color:#def2f1!important}
