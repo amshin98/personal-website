@@ -29,6 +29,10 @@
 	background-color:#def2f1!important
 }
 
+.header-padding {
+	padding: 115px 16px 64px!important;
+}
+
 a:link {
   text-decoration: none;
 }
