@@ -33,6 +33,10 @@
 	padding: 115px 16px 64px!important;
 }
 
+.first-row-padding {
+	padding: 96px 16px 32px!important;
+}
+
 a:link {
   text-decoration: none;
 }
